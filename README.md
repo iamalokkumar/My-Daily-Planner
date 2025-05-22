@@ -17,5 +17,5 @@ A simple task planner web app to add, search, complete, and delete daily tasks u
 ## Setup
 
 ```bash
-git clone https://github.com/iamalokkumar/My-Daily-Planner.git
+git clone <https://github.com/iamalokkumar/My-Daily-Planner.git>
 cd daily-planner
